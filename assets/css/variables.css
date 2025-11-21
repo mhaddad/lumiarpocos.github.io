@@ -1,0 +1,42 @@
+:root {
+    /* Brand Colors */
+    --color-primary: #F58220; /* Lumiar Orange */
+    --color-primary-dark: #D96D15;
+    --color-secondary: #004E7C; /* Deep Blue */
+    --color-secondary-light: #0066A1;
+    --color-accent-yellow: #FFC72C;
+    --color-accent-teal: #00B5B5;
+    
+    /* Neutral Colors */
+    --color-bg: #F9FAFB;
+    --color-surface: #FFFFFF;
+    --color-text-main: #1F2937;
+    --color-text-light: #6B7280;
+    --color-border: #E5E7EB;
+
+    /* Typography */
+    --font-heading: 'Outfit', sans-serif;
+    --font-body: 'Inter', sans-serif;
+
+    /* Spacing */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 2rem;
+    --spacing-lg: 4rem;
+    --spacing-xl: 8rem;
+
+    /* Border Radius */
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 24px;
+    --radius-full: 9999px;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+}
